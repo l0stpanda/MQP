@@ -1,2 +1,2 @@
 # SharkMQP26
-Shark MQP. Test
+Shark MQP. Cloned version for my personal GitHub profile.
